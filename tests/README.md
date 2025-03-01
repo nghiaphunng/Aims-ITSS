@@ -6,4 +6,4 @@ This is a web application built with **Spring Boot** for the backend and **React
 
 - Backend: Spring Boot
 - Frontend: React
-- Database: MySQL
+- Database: PostgreSQL
