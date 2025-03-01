@@ -3,12 +3,14 @@
 1. Phùng Duy Nghĩa
    1. Manage shopping cart
    2. Register, Login
-2. Trần Quang Huy
+      > describe: Update(add/remove product) cart, check inventory, view cart, authentication and authorization
+1. Trần Quang Huy
    1. Place Order
-3. Nguyễn Hoài Nam
+      > describe: check cart, provide delivery information
+1. Nguyễn Hoài Nam
    1. Manage product
    2. Manage user
-4. Lê Công Tâm
+1. Lê Công Tâm
    1. Manage order
-5. Nguyễn Trọng Hinh
+1. Nguyễn Trọng Hinh
    1. Browse product
